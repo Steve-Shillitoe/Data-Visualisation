@@ -16,3 +16,4 @@ setuptools==58.1.0
 six==1.16.0
 tzdata==2023.3
 zipp==3.16.2
+seaborn==0.12.2
